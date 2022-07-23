@@ -3,11 +3,6 @@ message: "If you use this, please cite it as below."
 authors:
 - family-names: "Joseph Joy"
   given-names: "Nikhil"
-- family-names: "M K "
-  given-names: "Ranjuna"
-  family-names: "Balakrishnan "
-  given-names: "Jayakumar"
-  orcid: "https://orcid.org/0000-0002-8020-9191"
 title: "Layer-number-identification-of-TMDs"
 version: 1.0.0
 date-released: 2022-07-22
